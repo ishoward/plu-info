@@ -8,9 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
   "update": {
 	  "hotversion": "2.4.3",
 	  "version": "2.4",
