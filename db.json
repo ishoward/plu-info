@@ -9,9 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "update": {
-	  "hotversion": "2.4.3",
-	  "version": "2.4",
-	  "injection": "\u003cspan style=\"color:#ff8d00\"\u003e中国大学mooc22222已有检测手段,插件版本已经移除自动选择功能,暂无解决方案,请酌情使用.\u003c/span\u003e\u003cspan\u003e其它平台暂无风险,正常使用.\u003c/span\u003e\u003cp style=\"float:right\"\u003e\u003ca href=\"https://jq.qq.com/?_wv=1027\u0026k=BJa4LL27\" target='_blank'\u003e交流QQ群\u003c/a\u003e \u003ca href=\"https://jq.qq.com/?_wv=1027\u0026k=Hh7gvvDz\" target='_blank' style=\"color:red;font-weight: bold;\"\u003e大学生内部优惠群\u003c/a\u003e\u003c/p\u003e",
+	  "hotversion": "3.4.5",
+	  "version": "3.4",
+	  "injection": "\u003cspan style=\"color:#ff8d00\"\u003e中国大学mooc已有检测手段！该版本已经移除答案自动选择功能,使用即代表您接受相关风险.\u003c/span\u003e\u003cspan\u003e强烈建议使用公众号搜题！虽然比较麻烦，但是非常安全和稳定！.\u003c/span\u003e\u003cp style=\"float:right\"\u003e\u003ca href=\"https://jq.qq.com/?_wv=1027\u0026k=BJa4LL27\" target='_blank'\u003e交流QQ群\u003c/a\u003e \u003ca href=\"https://jq.qq.com/?_wv=1027\u0026k=Hh7gvvDz\" target='_blank' style=\"color:red;font-weight: bold;\"\u003e大学生内部优惠群\u003c/a\u003e\u003c/p\u003e",
 	  "enforce": false,
 	  "url": "https://baidu.com"
   }
