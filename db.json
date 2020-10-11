@@ -11,7 +11,7 @@
   "update": {
 	  "hotversion": "3.4.5",
 	  "version": "3.5",
-	  "injection": "\u003cspan style=\"color:#ff8d00\"\u003e中国大学mooc已有检测手段！该版本答案自动显示但是需要您手动选择,使用即代表您接受相关风险。\u003c/span\u003e\u003cspan\u003e强烈建议使用公众号搜题！虽然比较麻烦，但是非常安全和稳定！\u003c/span\u003e\u003cp style=\"float:center\"\u003e\u003ca href=\"https://cn.nexploren.com/img/wx.jpg\" target='_blank'\u003e点击关注公众号\u003c/a\u003e \u003c/p\u003e",
+	  "injection": "\u003cspan style=\"color:#ff8d00\"\u003e该版本已取消自动答题，但是您可以根据提示手动搜题,在线题库可能存在一些缺陷，推荐您使用公众号搜题，题库更全\u003c/span\u003e\u003cspan\u003e强烈建议使用公众号搜题！虽然比较麻烦，但是非常安全和稳定！\u003c/span\u003e\u003cp style=\"float:center\"\u003e\u003ca href=\"https://cn.nexploren.com/img/wx.jpg\" target='_blank'\u003e点击关注公众号\u003c/a\u003e \u003c/p\u003e",
 	  "enforce": false,
 	  "url": "https://baidu.com"
   }
