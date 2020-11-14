@@ -11,8 +11,8 @@
   "update": {
 	  "hotversion": "3.4.5",
 	  "version": "3.5",
-	  "injection": "\u003cspan style=\"color:#ff8d00\"\u003e该版本已取消自动答题，但是您可以根据提示手动搜题。\u003c/span\u003e\u003cspan\u003e在线题库可能存在一些缺陷，强烈推荐您使用公众号搜题，题库更全，支持平台更多，更稳定\u003c/span\u003e\u003cp style=\"float:center\"\u003e\u003ca href=\"https://cn.nexploren.com/img/wx.jpg\" target='_blank'\u003e点击关注公众号\u003c/a\u003e \u003c/p\u003e",
+	  "injection": "\u003cspan style=\"color:#ff8d00\"\u003e安全原因油猴脚本已取消自动答题，如需自动答题请下载专用浏览器或使用公众号搜题。\u003c/span\u003e\u003cspan\u003e专用浏览器更稳定更安全且支持自动答题；公众号题库独享核心题库，题库更全，支持平台更多，更稳定\u003c/span\u003e\u003cp style=\"float:center\"\u003e\u003ca href=\"https://souti.pro\" target='_blank'\u003e点击下载专用浏览器\u003c/a\u003e |||\u003ca href=\"https://cn.nexploren.com/img/wx.jpg\" target='_blank'\u003e点击关注公众号\u003c/a\u003e\u003c/p\u003e",
 	  "enforce": false,
-	  "url": "https://baidu.com"
+	  "url": "https://souti.pro"
   }
 }
